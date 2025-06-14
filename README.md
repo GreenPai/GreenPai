@@ -1,6 +1,6 @@
-# 안녕하세요! 백엔드 개발자 우상호입니다.📘
+# 안녕하세요! 백엔드 개발자 우상호입니다 👋
 
-**Studying Data Science & Analysis**
+**Spring Boot, JPA, MySQL 기반의 백엔드 개발을 하며, 꾸준히 성장하는 개발자를 지향합니다.**
 
 ## 🎓 교육과정  
 - (롯데)기업맞춤형 프로젝트 기반 백엔드 자바, 스프링 웹 SW개발자 양성과정(그린컴퓨터 아카데미)
@@ -13,28 +13,21 @@
 
 ---
 
-## 🧠 Project
+## 💻 Project
+| **프로젝트명**                                                                   | **설명**                                                                                       | **기술 스택**                                                                              | **기간**                   |
+| --------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------- | ------------------------ |
+| [**사내 그룹웨어 프로젝트 (J2SM)**](https://github.com/greenlotte6/lotte1-lotteon-project-team2)    | JWT 인증을 기반으로 한 사내 그룹웨어 시스템으로, 실시간 채팅, 일정 관리(캘린더), 게시판, 파일 드라이브, 할 일 관리(TodoList) 기능을 포함하여 구현 | Java, JPA, Spring Boot, React, MySQL, Redis, MongoDB, AWS EC2, Vercel                  | 2025.05.26 \~ 진행 중       |
+| [**롯데온 클론 프로젝트**](https://github.com/greenlotte6/lotte1-lotteon-project-team2)                   | Spring Boot 기반의 이커머스 클론 프로젝트로, 상품, 장바구니, 회원/관리자 기능을 구현하고, GitHub Actions 기반 CI/CD 자동 배포를 적용  | Java, JPA, Spring Boot, MySQL, Redis, HTML5, CSS3, JavaScript, GitHub Actions, AWS EC2 | 2025.04.11 \~ 2025.05.23 |
+| [**그린대학교 시스템 팀 프로젝트**](https://github.com/GreenPai/Greendae) | 대학교 학사 관리를 위한 웹 시스템으로, 학생 관리, 수강신청, 공지사항 기능 구현 및 GitHub Actions와 AWS EC2를 통한 CI/CD 배포 자동화 적용 | Java, JPA, Spring MVC, MySQL, HTML5, CSS3, JavaScript, GitHub Actions, AWS EC2         | 2025.03.11 \~ 2025.04.04 |
+| [**팜스토리 쇼핑몰 팀 프로젝트**](https://github.com/GreenPai/farmStory)             | Java JSP 기반의 쇼핑몰 구현 프로젝트로, 게시판, 상품 등록, 장바구니, 주문, 관리자 페이지 등 전반적인 기능을 구현                       | Java, JSP, MySQL, HTML5, CSS3, JavaScript                                              | 2025.03.04 \~ 2025.03.07 |
 
-| **PERIOD**            | **TITLE**                         | **SUBJECT**                                                 |
-|-----------------------|-----------------------------------|--------------------------------------------------------------|
-| 2020.06 ~ 2020.07     | 논문 통계 분석                    | SPSS를 이용한 논문 내용 분석 (기출통계량 추정, T검정, Borich 등) |
-| 2020.09 ~ 2020.10     | 2020 빅데이터스 (NIA)             | 휴게소관리, 야구 승률 예측                                    |
-| 2021.05 ~ 2021.08     | 전주시 공급데이터 분석            | 전주시 공영주차장 CCTV 설치 구역 선정                        |
-| 2021.10 ~ 2021.12     | K-DATA & AI 자동화 분석 프로젝트  | AI를 사용한 통합 검사 자동화 서비스 개발                     |
-| 2021.11 ~ 2021.12     | NIA 공공데이터 청년인턴           | 공공 개방데이터 품질 진단 및 개선                             |
-| 2017.12 ~ 2018.01     | 전력대 CK 사업단                  | 수출국 국제조사 프로젝트 (라오스 여성 직업 개발 효과성 조사)   |
-| 2018.07 ~ 2018.08     | 전력대 CK 사업단                  | 캄보디아 해외 봉사 (화장실 짓기, 교육 봉사 · 대학활동)         |
+
+
+
+
+
+
+📁 각 프로젝트는 리포지토리에서 자세한 설명 확인이 가능합니다.
 
 ---
-
-## 🛠️ Skill  
-R / Python / SQL / SPSS
-
----
-
-![Profile views](https://komarev.com/ghpvc/?username=heon180&color=green&style=flat)
-
-[![Instagram](https://img.shields.io/badge/Instagram-ff69b4?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/your_instagram)  
-[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/heon180)  
-[![Blog](https://img.shields.io/badge/Blog-ff8c00?style=for-the-badge&logo=blogger&logoColor=white)](https://your-blog-url.com)
 
